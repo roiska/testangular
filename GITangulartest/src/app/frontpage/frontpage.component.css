@@ -1,4 +1,4 @@
-body {
+.componentBody {
     height : 1200px;
     width : 100%;
     background-color: #dedede; 
@@ -12,16 +12,19 @@ body {
     padding-right: 1px !important;
   }
   section > div {
-    min-height : 100px;
+    /* min-height : 100px; */
     background-color : #c14543;
     margin : 2px !important;
   }
   
   .block1 {  min-height : 200px}
+  .block2 {  min-height : 320px}
+  .block3 {  min-height : 190px}
+  .block4 {  min-height : 200px}
   .block5 {  min-height : 200px}
   .block6 {  min-height : 270px}
   .block7 {  min-height : 230px}
-  .block8 {  min-height : 300px}
+  .block8 {  min-height : 490px}
   
   /*
   Copyright 2016 Google Inc. All Rights Reserved. 
